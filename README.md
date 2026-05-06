@@ -10,7 +10,7 @@ Plug in your ESP32 to your laptop.
 pio run --target upload
 ```
 
-#### View Data
+#### View data
 ```
 pio device monitor -b 115200
 ```
