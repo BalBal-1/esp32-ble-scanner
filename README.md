@@ -5,11 +5,12 @@ BLE scanner using an ESP32
 ### Flash Target ESP32
 Plug in your ESP32 to your laptop.
 <br>Run the following commands in terminal:
+#### Upload software
 ```
 pio run --target upload
 ```
 
-## View Data
+#### View Data
 ```
 pio device monitor -b 115200
 ```
