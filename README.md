@@ -1,5 +1,6 @@
 # esp32-ble-scanner
-BLE scanner using an ESP32
+Simple BLE scanner using an ESP32 that you monitor over serial. <br>
+![Alt text](resources/output_example.png)
 
 ## Using the Scanner
 ### Flash Target ESP32
